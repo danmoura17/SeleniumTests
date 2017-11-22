@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo", "Exemplo\Exemplo.csproj", "{83F78ACD-1753-4037-8C3F-2B153B587576}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestesAutomatizado", "TestesAutomatizado\TestesAutomatizado.csproj", "{1B4B8E87-7F4D-41E9-9BC4-C14FA532F74E}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{83F78ACD-1753-4037-8C3F-2B153B587576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{83F78ACD-1753-4037-8C3F-2B153B587576}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{83F78ACD-1753-4037-8C3F-2B153B587576}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{83F78ACD-1753-4037-8C3F-2B153B587576}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1B4B8E87-7F4D-41E9-9BC4-C14FA532F74E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1B4B8E87-7F4D-41E9-9BC4-C14FA532F74E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B4B8E87-7F4D-41E9-9BC4-C14FA532F74E}.Release|Any CPU.ActiveCfg = Release|Any CPU
