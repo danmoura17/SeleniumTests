@@ -1,0 +1,12 @@
+c:\Users\dmoura\documents\visual studio 2017\Projects\Exemplo\TestesAutomatizado\bin\Debug\TestesAutomatizado.pdb
+c:\Users\dmoura\documents\visual studio 2017\Projects\Exemplo\TestesAutomatizado\bin\Debug\WebDriver.dll
+c:\Users\dmoura\documents\visual studio 2017\Projects\Exemplo\TestesAutomatizado\bin\Debug\WebDriver.Support.dll
+c:\Users\dmoura\documents\visual studio 2017\Projects\Exemplo\TestesAutomatizado\bin\Debug\WebDriver.xml
+c:\Users\dmoura\documents\visual studio 2017\Projects\Exemplo\TestesAutomatizado\bin\Debug\WebDriver.Support.xml
+c:\Users\dmoura\documents\visual studio 2017\Projects\Exemplo\TestesAutomatizado\obj\Debug\TestesAutomatizado.pdb
+c:\Users\dmoura\documents\visual studio 2017\Projects\Exemplo\TestesAutomatizado\bin\Debug\TestesAutomatizado.dll.config
+c:\Users\dmoura\documents\visual studio 2017\Projects\Exemplo\TestesAutomatizado\bin\Debug\TestesAutomatizado.dll
+c:\Users\dmoura\documents\visual studio 2017\Projects\Exemplo\TestesAutomatizado\bin\Debug\nunit.framework.dll
+c:\Users\dmoura\documents\visual studio 2017\Projects\Exemplo\TestesAutomatizado\bin\Debug\nunit.framework.xml
+c:\Users\dmoura\documents\visual studio 2017\Projects\Exemplo\TestesAutomatizado\obj\Debug\TestesAutomatizado.dll
+C:\Users\dmoura\documents\visual studio 2017\Projects\Exemplo\TestesAutomatizado\obj\Debug\TestesAutomatizado.csprojResolveAssemblyReference.cache
