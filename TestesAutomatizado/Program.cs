@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Firefox;
 using NUnit.Framework;
+using System.Threading;
 
 namespace TestesAutomatizado {
 
@@ -15,13 +16,17 @@ namespace TestesAutomatizado {
         public void DeveCadastrarUsuario() {
             IWebDriver firefox = new FirefoxDriver();
 
-            firefox.Navigate().GoToUrl("http://localhost:65186");
+            firefox.Navigate().GoToUrl("https://www.scytl.com/pt-br/visao-geral-da-empresa/");
 
-            IWebElement buttonLearn = firefox.FindElement(By.ClassName("btn-primary"));
+            Thread.Sleep(1000);
+
+            IWebElement buttonLearn = firefox.FindElement(By.ClassName("logo"));
+
+            Thread.Sleep(1000);
 
             buttonLearn.Click();
 
-            bool achouNome = firefox.PageSource.Contains("Free courses");
+            bool achouNome = firefox.PageSource.Contains("As soluções eleitorais da Scytl ganharam a confiança de organizações eleitorais públicas e privadas em todo o mundo.");
 
             firefox.Close();
             Assert.IsTrue(achouNome);

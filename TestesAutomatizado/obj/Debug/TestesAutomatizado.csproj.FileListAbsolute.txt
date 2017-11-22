@@ -10,3 +10,15 @@ c:\Users\dmoura\documents\visual studio 2017\Projects\Exemplo\TestesAutomatizado
 c:\Users\dmoura\documents\visual studio 2017\Projects\Exemplo\TestesAutomatizado\bin\Debug\nunit.framework.xml
 c:\Users\dmoura\documents\visual studio 2017\Projects\Exemplo\TestesAutomatizado\obj\Debug\TestesAutomatizado.dll
 C:\Users\dmoura\documents\visual studio 2017\Projects\Exemplo\TestesAutomatizado\obj\Debug\TestesAutomatizado.csprojResolveAssemblyReference.cache
+C:\Users\dmoura\Documents\Visual Studio 2017\Projects\SeleniumTests\TestesAutomatizado\bin\Debug\TestesAutomatizado.dll.config
+C:\Users\dmoura\Documents\Visual Studio 2017\Projects\SeleniumTests\TestesAutomatizado\bin\Debug\TestesAutomatizado.dll
+C:\Users\dmoura\Documents\Visual Studio 2017\Projects\SeleniumTests\TestesAutomatizado\bin\Debug\TestesAutomatizado.pdb
+C:\Users\dmoura\Documents\Visual Studio 2017\Projects\SeleniumTests\TestesAutomatizado\bin\Debug\nunit.framework.dll
+C:\Users\dmoura\Documents\Visual Studio 2017\Projects\SeleniumTests\TestesAutomatizado\bin\Debug\WebDriver.dll
+C:\Users\dmoura\Documents\Visual Studio 2017\Projects\SeleniumTests\TestesAutomatizado\bin\Debug\WebDriver.Support.dll
+C:\Users\dmoura\Documents\Visual Studio 2017\Projects\SeleniumTests\TestesAutomatizado\bin\Debug\nunit.framework.xml
+C:\Users\dmoura\Documents\Visual Studio 2017\Projects\SeleniumTests\TestesAutomatizado\bin\Debug\WebDriver.xml
+C:\Users\dmoura\Documents\Visual Studio 2017\Projects\SeleniumTests\TestesAutomatizado\bin\Debug\WebDriver.Support.xml
+C:\Users\dmoura\Documents\Visual Studio 2017\Projects\SeleniumTests\TestesAutomatizado\obj\Debug\TestesAutomatizado.csprojResolveAssemblyReference.cache
+C:\Users\dmoura\Documents\Visual Studio 2017\Projects\SeleniumTests\TestesAutomatizado\obj\Debug\TestesAutomatizado.dll
+C:\Users\dmoura\Documents\Visual Studio 2017\Projects\SeleniumTests\TestesAutomatizado\obj\Debug\TestesAutomatizado.pdb
